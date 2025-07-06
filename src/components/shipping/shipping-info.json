@@ -1,0 +1,34 @@
+{
+  "collectionName": "components_shipping_shipping_infos",
+  "info": {
+    "displayName": "Shipping Info"
+  },
+  "options": {},
+  "attributes": {
+    "full_name": {
+      "type": "string",
+      "required": true
+    },
+    "address": {
+      "type": "text",
+      "required": true
+    },
+    "city": {
+      "type": "string",
+      "required": true
+    },
+    "postal_code": {
+      "type": "string",
+      "required": true
+    },
+    "country": {
+      "type": "string",
+      "required": true
+    },
+    "phone": {
+      "type": "biginteger",
+      "required": true
+    }
+  },
+  "config": {}
+}
